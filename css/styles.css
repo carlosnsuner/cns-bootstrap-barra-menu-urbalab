@@ -1,4 +1,19 @@
 body{
-    background-color: aquamarine;
-    margin: 0;
+    background-color: grey
+}
+
+.main-sup{
+
+    background-color: gainsboro;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.logo{
+    width:30%;
+    display: flex;
+    align-items: center;
 }
